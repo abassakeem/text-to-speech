@@ -62,7 +62,7 @@ const Homepage = () => {
                          <div className="   d-flex flex-column justify-content-center align-items-center">
                         <div className="select-voice-container mb-3">
                         <div className='speechSettings'>
-                            <label style={{ fontWeight: 600 } }className="d-flex select-voice ">Select voice</label>
+                            <label style={{ fontWeight: 600 } }className="d-flex select-voice-label ">Select voice</label>
                         <select
                         className="select-voice"
                             name="voice"
