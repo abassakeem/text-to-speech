@@ -1,0 +1,21 @@
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: #f1f1f1;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #888;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #555;
+}
+:root {
+    --study-junction-red: #E2451C;
+    --study-junction-red-hover: #bd310d
+  }
+  
+:root {
+    --study-junction-black: #0a2b1e
+  }
