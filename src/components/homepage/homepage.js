@@ -87,10 +87,8 @@ const Homepage = () => {
                                 
                                 </InputGroup>
                                 <div className="buttons mt-3">
-                                <Button  RecordVoiceOverOutlined  onClick={()=>{handleClick()}} className="btn btn-dark convert-button">convert</Button>
-                                {/* <button onClick={handlePauseOrPlay}>
-                                    {isSpeaking ? 'Pause' : 'Play/Pause'}
-                                </button> */}
+                                <Button  RecordVoiceOverOutlined  onClick={()=>{handleClick()}} className="btn btn-dark convert-button">Convert</Button>
+                                
                                 <button className="btn btn-outline-danger cancel-button m-2" onClick={handleCancel}>
                                    Stop play
                                 </button>
